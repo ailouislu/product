@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/products/static/css/main.81099fc0.chunk.css",
-    "main.js": "/products/static/js/main.f7ebaf44.chunk.js",
-    "main.js.map": "/products/static/js/main.f7ebaf44.chunk.js.map",
-    "runtime-main.js": "/products/static/js/runtime-main.ebd25d79.js",
-    "runtime-main.js.map": "/products/static/js/runtime-main.ebd25d79.js.map",
-    "static/css/2.edb60c8f.chunk.css": "/products/static/css/2.edb60c8f.chunk.css",
-    "static/js/2.7fb962b2.chunk.js": "/products/static/js/2.7fb962b2.chunk.js",
-    "static/js/2.7fb962b2.chunk.js.map": "/products/static/js/2.7fb962b2.chunk.js.map",
-    "index.html": "/products/index.html",
-    "static/css/2.edb60c8f.chunk.css.map": "/products/static/css/2.edb60c8f.chunk.css.map",
-    "static/css/main.81099fc0.chunk.css.map": "/products/static/css/main.81099fc0.chunk.css.map",
-    "static/js/2.7fb962b2.chunk.js.LICENSE.txt": "/products/static/js/2.7fb962b2.chunk.js.LICENSE.txt",
-    "static/media/green-light-candle.e665aeaf.jpeg": "/products/static/media/green-light-candle.e665aeaf.jpeg",
-    "static/media/pink-light-candle.3b5cbc7c.jpeg": "/products/static/media/pink-light-candle.3b5cbc7c.jpeg",
-    "static/media/tea-light-candle.ec5a0036.jpeg": "/products/static/media/tea-light-candle.ec5a0036.jpeg",
-    "static/media/white-light-candle.86a517cc.jpg": "/products/static/media/white-light-candle.86a517cc.jpg"
+    "main.css": "/product/static/css/main.81099fc0.chunk.css",
+    "main.js": "/product/static/js/main.9994571d.chunk.js",
+    "main.js.map": "/product/static/js/main.9994571d.chunk.js.map",
+    "runtime-main.js": "/product/static/js/runtime-main.bb38aada.js",
+    "runtime-main.js.map": "/product/static/js/runtime-main.bb38aada.js.map",
+    "static/css/2.edb60c8f.chunk.css": "/product/static/css/2.edb60c8f.chunk.css",
+    "static/js/2.7fb962b2.chunk.js": "/product/static/js/2.7fb962b2.chunk.js",
+    "static/js/2.7fb962b2.chunk.js.map": "/product/static/js/2.7fb962b2.chunk.js.map",
+    "index.html": "/product/index.html",
+    "static/css/2.edb60c8f.chunk.css.map": "/product/static/css/2.edb60c8f.chunk.css.map",
+    "static/css/main.81099fc0.chunk.css.map": "/product/static/css/main.81099fc0.chunk.css.map",
+    "static/js/2.7fb962b2.chunk.js.LICENSE.txt": "/product/static/js/2.7fb962b2.chunk.js.LICENSE.txt",
+    "static/media/green-light-candle.e665aeaf.jpeg": "/product/static/media/green-light-candle.e665aeaf.jpeg",
+    "static/media/pink-light-candle.3b5cbc7c.jpeg": "/product/static/media/pink-light-candle.3b5cbc7c.jpeg",
+    "static/media/tea-light-candle.ec5a0036.jpeg": "/product/static/media/tea-light-candle.ec5a0036.jpeg",
+    "static/media/white-light-candle.86a517cc.jpg": "/product/static/media/white-light-candle.86a517cc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ebd25d79.js",
+    "static/js/runtime-main.bb38aada.js",
     "static/css/2.edb60c8f.chunk.css",
     "static/js/2.7fb962b2.chunk.js",
     "static/css/main.81099fc0.chunk.css",
-    "static/js/main.f7ebaf44.chunk.js"
+    "static/js/main.9994571d.chunk.js"
   ]
 }
